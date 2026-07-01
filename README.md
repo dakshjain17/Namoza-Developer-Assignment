@@ -12,7 +12,7 @@ This repo contains the three deliverables for the Namoza Developer assignment.
 | [`Task-1-gtm-schema.md`](./Task-1-gtm-schema.md) | GTM event schema + booking funnel JSON + Google Ads conversion pick |
 | [`index.html`](./index.html) | Single-file landing page (HTML + CSS + vanilla JS) |
 | [`Task-2-landing-page.html`](./Task-2-landing-page.html) | PageSpeed Insights Mobile screenshot (90+) |
-| [`Task-3-integration.md`](./Task-3-integration.md) | HubSpot + Karix WhatsApp + Google Ads integration writeup |
+| [`Task-3-Integration.md`](./Task-3-Integration.md) | HubSpot + Karix WhatsApp + Google Ads integration writeup |
 
 ## How to run Task 2 locally
 
