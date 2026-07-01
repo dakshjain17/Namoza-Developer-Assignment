@@ -23,9 +23,3 @@ To verify the dataLayer push on submit:
 2. Run `window.dataLayer = window.dataLayer || []` (already initialised on the page)
 3. Fill Name + Phone, click Book my consultation
 4. Console logs the pushed event; the form swaps to a thank-you state without reload.
-
-## Submission
-
-- GitHub repo: this repo
-- Loom (≤8 min): [link]
-- Email: naman@namoza.com — *Subject: Developer Assignment - [Your Name]*
